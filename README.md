@@ -23,3 +23,5 @@ A repository that catalogs CivicActions project artifacts and templates
 
 - **[Sprint Retrospective Lessons Learned template](/templates/Retrospective-Action-Items.xlsx)**
 
+#### Engineering
+- **[Front-End Resource Library](/https://github.com/CivicActions/FE-resource-library)** A work in progress.
